@@ -1,28 +1,27 @@
-# Welcome to EthHub
+# Benvenuti su EthHub
 
-## Welcome to EthHub
+## Benvenuti su EthHub
 
-The goal of EthHub is to provide a single source for essential Ethereum information. We attempt to accomplish this goal through three main areas:
+L'obiettivo di EthHub è quello di fornire una singola fonte di informazioni essenziali riguardanti Ethereum; ciò può essere ottenuto attraverso tre principali strumenti:
 
-1. [Docs](https://docs.ethhub.io) - Open source, easy to understand documentation
+1. [Docs](https://docs.ethhub.io) - Documentazione open source e di facile comprensione
 2. [Podcast](https://ethhub.substack.com) - Into the Ether podcast
 3. [Newsletter](https://ethhub.substack.com) - EthHub on Medium
 
-The Docs section, where you are now, is the core of EthHub. This documentation is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise and up to date.
+La sezione Docs, dove vi trovate ora, è la più importante per EthHub. Queta documentazione è open source e disponibile su GitHub: ciò significa che chiunque ha la possibilità di contribuire. L'obiettivo è di accertare che le informazioni siano disponibili, chiare, concise ed aggiornate.
 
-## Contribution Guidelines
+## Linee guida per contribuire
 
-In the interest of keeping the content on EthHub looking uniform, we have set up a template that you can use when adding your own pages to the github repo. You can find the template [here](https://github.com/ethhub-io/ethhub/tree/138f04335ad4a090d8eb370a9af90ee82fccf1a6/template.md).
+Nell'interesse di mantenere il contenuto di EthHub uniforme, è stato reso disponibile un template che può essere utilizzato per aggiungere le proprie pagine alla repo di github. E' possibile trovare il template qui [here](https://github.com/ethhub-io/ethhub/tree/138f04335ad4a090d8eb370a9af90ee82fccf1a6/template.md).
 
-There are also some basic guidelines that need to be followed when contributing to EthHub:
+Ci sono ua serie di linee guida che devono essere seguite per contribuire ad EthHub:
+* Tutte le pagine devono avere dei link di supporto, le fonti/documentazione e tutte le risorse utilizzate
+* No post sponsorizzati o di marketing
+* No post di promozione o di pubblicizzazione di ICOs/token sales
+* No contenuti inappropriati
 
-* All pages should have links to supporting sources/documentation and additional resources
-* No marketing or sponsored posts
-* No promotion of ICOs/token sales
-* No inappropriate content
+E' possibile partecipare alla discussione su Discord: [https://discord.gg/VDMBe4c](https://discord.gg/VDMBe4c)
 
-Join the discussion on our Discord server: [https://discord.gg/VDMBe4c](https://discord.gg/VDMBe4c)
+Donations: [0xee132ac9eb7dc7518cb06a17bf1e31a541fb2cbc](https://etherscan.io/address/0xa19fcdad77c1f0fd184689aca88babcf68010347)
 
-Donations: [0xa19fcdad77c1f0fd184689aca88babcf68010347](https://etherscan.io/address/0xa19fcdad77c1f0fd184689aca88babcf68010347)
-
-**DISCLAIMER: EthHub is a completely independent and open-source initiative founded by Ethereum community members. Nothing contained in this Github repository should be considered financial or investment advice - it is for informational purposes only.**
+**DISCLAIMER: EthHub è un iniziativa completamente indipendente ed open source fondata dai membri della community di Ethereum. Nulla di quanto contenuto in questa repository Github dovrebbe essere considerato un consulto finanziario o di investimento - è solamente a scopo informativo. **
